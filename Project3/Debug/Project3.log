@@ -1,0 +1,7 @@
+﻿  driver.cpp
+c:\cppdevsp16\project3\driver.cpp(178): warning C4244: '=': conversion from 'double' to '_ULonglong', possible loss of data
+c:\cppdevsp16\project3\driver.cpp(181): warning C4244: 'return': conversion from '_ULonglong' to 'unsigned int', possible loss of data
+c:\cppdevsp16\project3\driver.cpp(483): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\cppdevsp16\project3\driver.cpp(183): warning C4715: 'convertByRadixMethodV1': not all control paths return a value
+c:\cppdevsp16\project3\driver.cpp(358): warning C4715: 'convertByRadixMethodV2': not all control paths return a value
+  Project3.vcxproj -> C:\CppDevSp16\Project3\Debug\Project3.exe
