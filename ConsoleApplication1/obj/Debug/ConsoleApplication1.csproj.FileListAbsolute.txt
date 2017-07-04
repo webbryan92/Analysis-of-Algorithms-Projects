@@ -1,0 +1,6 @@
+C:\CppDevSp16\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\CppDevSp16\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\CppDevSp16\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\CppDevSp16\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\CppDevSp16\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\CppDevSp16\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
