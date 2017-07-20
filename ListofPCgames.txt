@@ -1,0 +1,218 @@
+List of PC exclusive titles
+From Wikipedia, the free encyclopedia
+
+The following is a list and table of video games created exclusively for the PC platform. It includes games for multiple operating systems, such as Windows, Linux, DOS, Unix, and OSX.
+Gamepad.svg This video game-related list is incomplete; you can help by expanding it.
+
+Contents
+
+    1 About
+    2 List
+    3 See also
+    4 References
+
+About
+
+The games are ordered alphabetically by default. If a game remains a PC exclusive longer than a year after its release, it can still be included in this list.
+List
+Name 	Developer 	Publisher 	Genre(s) 	Operating System(s) 	Date Released
+ÜberSoldier 	Burut Creative Team 		First-person shooter 	Microsoft Windows 	March 29, 2006
+.kkrieger 	.theprodukkt 		First-person shooter 	Microsoft Windows 	April 30, 2004
+0 A.D. 	Wildfire Games 	Wildfire Games 	Real-time strategy 	Microsoft Windows, OSX, Linux 	August 16, 2010
+007: Licence to Kill 	Quixel 	Domark 	Top-down shooter 	MS-DOS 	April 20, 1989
+1-0 Soccer Manager 	New Era Software 	Wizard Games 	Sports, Management 	MS-DOS 	1992
+101 Dalmatians: Escape from DeVil Manor 	DreamForge Intertainment 	Disney Interactive 	Action, Adventure, Strategy 	Windows 	1997
+10th Frame 	Access Software 	US Gold 	Sports 	MS-DOS 	1986
+140 (video game) 	Jeppe Carlson 		Platformer 	Windows, OSX 	October 16, 2013
+18 Wheels of Steel: Haulin' 	SCS Software 	ValuSoft 	Vehicle simulation game 	Microsoft Windows 	December 8, 2006
+180 	Ste Pickford, David Whittaker 	Mastertronic Added Dimension 	Sports 	Commodore 64 	
+1830: Railroads & Robber Barons 	Simtex 	Avalon Hill 	Real-time Strategy 	MS-DOS 	1995
+1869 	Max Design 	Max Design 	Strategy 	MS-DOS 	1992
+1914 Shells of Fury 	Randomeida 	Strategy First 	Simulation 	Windows 	August 14, 2007
+1942: The Pacific Air War 	Microprose 	Microprose 	Flight Simulator 	MS-DOS 	1994
+221B Baker Street 	Datasoft 	Datasoft 	Puzzle 	MS-DOS 	1987
+2400 A.D. 	Origin Systems 	Origin Systems 	Adventure 	MS-DOS, Apple II 	1987
+3-D Bomberman 	Hudson Soft 	Hudson Soft 	Arcade, Maze, Strategy 		1984
+3-Demon 	PC research INC 		Adventure 		1983
+3D Construction Kit 	Incentive Software 	Domark 	Simulation 	MS-DOS 	July 1, 1991
+3D Construction Kit II 	Incentive Software 	Domark 	Simulation 	MS-DOS 	November 10, 1992
+3D Maze Man: Amazing Adventures 	Webfoot Technologies 	eGames Inc 	Arcade 	MS-DOS 	1998
+3DiTeams 	Duke University Medical Center, Virtual Heros Inc 	Duke University Medical Center, Virtual Heros Inc 	Serious Game 	Windows 	2007 1
+3kingdoms 	Project Community 		MUD 		1992
+4D Sports Boxing 	Distinctive Software 	Mindscape 	Sports 	Amiga, DOS, Atari ST, Macintosh 	June 15, 1991
+4D Sports Tennis 	Distinctive Software 	Mindscape 	Sports 	DOS 	1990
+4th & Inches 	Accolade 		Sports, American football 	Amiga, Commodore 64, Apple II, Apple IIGS, DOS 	1987
+4x4 Hummer 	Avalon Entertainment 	505 Games, 1C Company 	Racing 	Microsoft Windows 	June 15, 2009
+4x4 Off-Road Racing 	Odan MicroDesign 	Epyx 	Racing 	Amstrad CPC, Atari ST, Amiga, DOS, Commodore 64, MSX, ZX Spectrum 	1988
+5 (visual novel) 	Ram 	Visual Art's 	Eroge, Visual novel 	Microsoft Windows 	July 25, 2008
+5 A Day Adventures 		Dole Food Company 	Education 	Microsoft Windows 	1994
+50 Mission Crush 	John Gray 	Strategic Simulations, Inc 	Role-playing video game 	Apple II, Atari 8-bit family, Commodore 64, DOS 	1984
+500cc Grand Prix 	Microïds 	Microïds 	Racing 	Amstrad CPC, Atari ST, Commodore C64/128 	1987
+688(I) Hunter/Killer 	Sonalysts Inc. 	Electronic Arts 	Submarine simulator 	Microsoft Windows 	July 4, 1997
+7 Colors 	Gamos Ltd. 	Infogrames 	Strategy 	Amiga, DOS 	1991
+7554 	Emobi Games 	Emobi Games 	First person shooter 	Microsoft Windows 	December 16, 2011
+7th Legion 	Vision, Epic MegaGames 	MicroProse 	Real-time strategy 	Microsoft Windows 	September 31, 1997
+80 Days 	Frogwares 		Adventure 	Microsoft Windows 	2005
+8BitMMO 	Archive Entertainment 		MMORPG 	Microsoft Windows 	December 14, 2013
+9: The Last Resort 	Tribeca Interactive 	GT Interactive 	Adventure game 	Microsoft Windows, OSX 	September 30, 1996
+A Fairy Tale (video game) 	Reflexive Entertainment 	Reflexive Entertainment 	Matching 	Microsoft Windows, OSX 	March 2009
+A Fork in the Tale 	Advance Reality Interactive 	Any River Entertainment 	Adventure 	Microsoft Windows 	February 28, 1997
+A Game of Thrones: Genesis 	Cyanide 	Focus Home Interactive 	Strategy 	Microsoft Windows 	September 28, 2011
+A Hat in Time 	Gears for Breakfast 		Adventure, Platforming 	Microsoft Windows, OSX 	2014
+A Mind Forever Voyaging 	Infocom 	Infocom 	Interactive fiction 	Amiga, Apple II series, Atari ST, Commodore 128, MS-DOS, Macintosh 	August 14, 1985
+Aces of the Pacific 	Dynamix 	Sierra Entertainment 	Combat flight simulator 	MS-DOS 	November 8, 1992
+Age of Empires 	Ensemble Studios 	Microsoft Game Studios 	Real-time strategy 	Microsoft Windows, OSX 	October 15, 1997
+Alien Swarm 	Valve Corporation 	Valve Corporation 	Shoot-em-upd 	Microsoft Windows 	July 19, 2010
+Amnesia: A Machine for Pigs 	The Chinese Room 	Frictional Games 	Horror game 	Microsoft Windows, OSX, Linux 	September 10, 2013
+Amnesia: The Dark Descent 	Frictional Games 	Frictional Games 	Horror game 	Microsoft Windows 	August 8, 2010
+Anno 1602 	Related designs 	Sunflowers 	City building & Economy 	Microsoft Windows 	September 24, 1998
+Anno 1701 	Related designs 	Sunflowers 	City building & Economy 	Microsoft Windows 	November 3, 2006
+Anno 2070 	Related designs, Ubisoft blue byte 	Ubisoft 	City building & Economy 	Microsoft Windows 	November 17, 2011
+ARMA: Armed Assault 	Bohemia Interactive 	505 Games[1] 	Tactical shooter, military simulation, open world 	Microsoft Windows 	June 26, 2009
+ARMA 2 	Bohemia Interactive 	505 Games[2] 	Tactical shooter, military simulation, open world 	Microsoft Windows 	June 26, 2009
+ARMA 3 	Bohemia Interactive 	Bohemia Interactive[3] 	Tactical shooter, military simulation, open world 	Microsoft Windows 	September 12, 2013
+Battlefield 1942 	Digital Illusions CE 	Electronic Arts 	First-person shooter 	Microsoft Windows, OSX 	September 10, 2002
+Battlefield 1942: Secret Weapons of WWII 	Digital Illusions CE 	Electronic Arts 	First-person shooter[4] 	Microsoft Windows, OSX 	September 4, 2003
+Battlefield 1942: The Road to Rome 	Digital Illusions CE 	Electronic Arts 	First-person shooter 	Microsoft Windows 	February 2, 2003
+Battlefield 2 	Digital Illusions CE 	EA Games 	First-person shooter 	Microsoft Windows 	June 21, 2005
+Battlefield 2142 	EA Digital Illusions CE 	Electronic Arts 	First-person shooter 	Microsoft Windows, OSX 	October 17, 2006
+Battlefield Heroes 	EA Digital Illusions CE, Easy Studios 	Electronic Arts , Aeria Games 	First-person shooter 	Microsoft Windows 	June 25, 2009
+Battlefield Play4Free 	EA Digital Illusions CE, Easy Studios 	Electronic Arts 	First-person shooter 	Microsoft Windows 	April 4, 2011
+Battleforge 	EA Phenomic 	Electronic Arts 	Real-time strategy 	Microsoft Windows 	March 23, 2009
+Battleground 2: Gettysburg 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	December 31, 1995
+Battleground 3: Waterloo 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	May 31, 1996
+Battleground 4: Shiloh 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	January 31, 1996
+Battleground 5: Antietam 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	December 31, 1996
+Battleground 6: Napoleon in Russia 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	March 30, 1997
+Battleground 7: Bull Run 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	March 30, 1997
+Battleground 8: Prelude to Waterloo 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	1997
+Battleground 9: Chickamauga 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	1998
+Battleground 10: Middle East 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	1997
+Battleground 11: East Front 	TalonSoft 	TalonSoft 	Turn-based strategy, Real-time tactics 	Microsoft Windows 	1997
+Battlehawks 1942 	Lucasfilm Games 	Lucasfilm Games 	Flight simulation 	MS-DOS, Amiga, Atari ST 	October 1988
+Battles in Time 	Quantum Quality Productions, American Laser Games 	Quantum Quality Productions 	Strategy 	Microsoft Windows 	1995
+Battles of Napoleon 	Chuck Kroegel, David Landrey 	Strategic Simulations, Inc. 	Wargame 	Apple II, Commodore 64, DOS 	1988
+Battleship: Surface Thunder 	Hasbro Interactive 	Hasbro Interactive 	Action game 	Microsoft Windows 	September 12, 2000
+Beam Breakers 	Similis Software GmbH 	JoWooD Productions Software 	Futuristic racing 	Microsoft Windows 	October 31, 2002
+Call of Duty: United Offensive 	Gray Matter Interactive, MediaQuest, Aspyr 	Activision 	Action, First-person shooter 	Microsoft Windows, OSX 	September 14, 2004
+Chivalry: Medieval Warfare 	Torn Banner Studios 	Torn Banner Studios 	Action, First-person slasher 	Microsoft Windows 	October 16, 2012
+Civilization III 	Firaxis Games, Westlake Interactive, Aspyr 	Atari, Aspyr 	Turn-based strategy 	Microsoft Windows, OSX 	October 30, 2001
+Civilization III: Conquests 	Firaxis Games, BreakAway Games 	Atari 	Turn-based strategy 	Microsoft Windows 	2003
+Civilization III: Play the World 	Firaxis Games 		Turn-based strategy 	Microsoft Windows, OSX 	October 31, 2002
+Civilization IV 	Firaxis Games 	2K Games, Aspyr 	Turn-based strategy 	Microsoft Windows, OSX 	October 25, 2005
+Civilization V 	Firaxis Games 	2K Games, Aspyr 	Turn-based strategy 	Microsoft Windows, OSX 	September 21, 2010
+Civilization V: Brave New World 	Firaxis Games 	2K Games, Aspyr 	Turn-based strategy 	Microsoft Windows, OSX 	March 15, 2013
+Civilization V: Gods & Kings 	Firaxis Games 	2K Games, Aspyr 	Turn-based strategy 	Microsoft Windows, OSX 	February 16, 2012
+Command & Conquer 4: Tiberian Twilight 	Westwood Studios 	Electronic Arts 	Real-time Strategy 	Microsoft Windows 	March 16, 2010
+Command & Conquer: Red Alert 2 	Westwood Studios 	Electronic Arts 	Real-time Strategy 	Microsoft Windows 	October 27, 2000
+Command & Conquer: Renegade 	Westwood Studios 	Electronic Arts 	First-person shooter 	Microsoft Windows 	February 26, 2002
+Command & Conquer: Tiberian Sun 	Westwood Studios 	Electronic Arts 	Real-time Strategy 	Microsoft Windows 	August 27, 1999
+Company of Heroes 	Relic Entertainment 	THQ 	Real-time Strategy 	Microsoft Windows, OSX 	September 12, 2006
+Company of Heroes 2 	Relic Entertainment 	Sega 	Real-time Strategy 	Microsoft Windows 	June 25, 2013
+Counter-Strike: Condition Zero 	Valve Corporation, Gearbox Software, Ritual Entertainment, Turtle Rock Studios 	Valve Corporation 	First Person Shooter 	Microsoft Windows, OSX, Linux 	March 23, 2004
+Counter-Strike Online 	Valve Corporation, Nexon Corporation 	Valve Corporation, Nexon Corporation, Gamania 	First Person Shooter 	Microsoft Windows 	June 24, 2008
+Counter-Strike:Source 	Valve Corporation 	Valve Corporation 	First Person Shooter 	Microsoft Windows, OSX, Linux 	September 7, 2004
+Cryostasis: Sleep of Reason 	Action Forms 	1C, Aspyr, 505 Games 	Survival Horror 	Microsoft Windows 	February 27, 2009
+Day of Defeat 	Valve Corporation 	Valve Corporation 	First-person shooter 	Microsoft Windows, OSX, Linux 	August 4, 2000
+Day of Defeat: Source 	Valve Corporation 	Valve Corporation 	First-person shooter 	Microsoft Windows, OSX, Linux 	September 26, 2005
+Dear Esther 	The Chinese Room 	The Chinese Room 	Art 	Microsoft Windows, OSX, Linux 	February 14, 2012
+Deathmatch Classic 	Valve Software 	Valve Software 	First-person shooter 	Microsoft Windows, OSX, Linux 	June 1, 2001
+Defcon 	Introversion Software 	Introversion Software 	Real-time strategy 	Microsoft Windows, OSX, Linux 	September 29, 2006
+Democracy 3 	Positech Games 	Positech Games 	Government Simulation 	Microsoft Windows, OSX, Linux 	October 14, 2013
+Diablo II 	Blizzard North 	Blizzard Entertainment, Sierra Entertainment 	Action role-playing, Hack and slash 	Microsoft Windows, OSX 	June 29, 2000
+Digital Combat Simulator 	Eagle Dynamics 	The Fighter Collection 	Flight Simulator 	Microsoft Windows 	December 10, 2008
+Doom (video game) 	id Software 	GT Interactive 	First-person shooter 	MS-DOS 	December 10, 1993
+Dota 2 	Valve Corporation 	Valve Corporation 	real-time strategy 	Microsoft Windows, OSX, Linux 	July 9, 2013
+Dwarf Fortress 	Bay 12 Games 	Bay 12 Games 	Action real-time strategy 	Microsoft Windows, OSX, Linux 	August 8, 2006
+Empire Earth 	Stainless Steel Studios 	Sierra Entertainment 	Real-time strategy 	Microsoft Windows 	November 12, 2001
+Empire: Total War 	The Creative Assembly, Feral Interactive 	Sega, Feral Interactive 	Real-time strategy 	Microsoft Windows, OSX 	March 3, 2009
+Euro Truck Simulator 	SCS Software 	SCS Software 	Simulator 	Microsoft Windows 	August 29, 2008
+Euro Truck Simulator 2 	SCS Software 	SCS Software 	Simulator 	Microsoft Windows, Linux 	October 19, 2012
+Garry's Mod 	Facepunch Studios 	Valve Corporation 	Nonlinear, sandbox Physics game 	Microsoft Windows, OSX, Linux 	December 24, 2004
+Goat Simulator 	Coffee Stain Studios 	Coffee Stain Studios 	Nonlinear, sandbox Physics game 	Microsoft Windows 	January 4, 2014
+Guild Wars 	ArenaNet 	NCSoft 	CORPG 	Microsoft Windows 	April 26, 2005
+Guild Wars Factions 	ArenaNet 	NCSoft 	CORPG 	Microsoft Windows 	April 28, 2006
+Guild Wars Nightfall 	ArenaNet 	NCSoft 	CORPG 	Microsoft Windows 	October 27, 2006
+Guild Wars 2 	ArenaNet 	NCSoft 	MMORPG 	Microsoft Windows, OSX 	August 28, 2012
+Half-Life: Blue Shift 	Valve Corporation, Gearbox Software 	Sierra Studios 	First-Person shooter 	Microsoft Windows, OSX, Linux 	June 12, 2001
+Half-Life: Opposing Force 	Valve Corporation, Gearbox Software 	Sierra Studios 	First-Person shooter 	Microsoft Windows, OSX, Linux 	November 10, 1999
+Half-Life: Source 	Valve Corporation 	Valve Corporation 	First-Person shooter 	Microsoft Windows, OSX, Linux 	June 1, 2004
+Half-Life 2: Lost Coast 	Valve Corporation 	Valve Corporation 	First-Person shooter 	Microsoft Windows, OSX, Linux 	October 27, 2005
+Hard Truck Apocalypse 	Targem Games 	Buka Entertainment 	Car Combat 	Microsoft Windows 	June 19, 2006
+Insurgency 	New World Interactive 	New World Interactive 	First Person Shooter 	Microsoft Windows 	January 22, 2014
+Kerbal Space Program 	Squad 	Squad 	Sandbox 	Microsoft Windows 	June 24, 2011
+League of Legends 	Riot Games 	Riot Games 	Action real-time strategy 	Microsoft Windows, OSX, Linux 	October 27, 2009
+Medieval: Total War 	The Creative Assembly 	Activision 	Turn-based strategy 	Microsoft Windows 	August 20, 2002
+Medieval II: Total War 	The Creative Assembly 	Sega 	Turn-based strategy 	Microsoft Windows 	November 11, 2006
+Might & Magic X: Legacy 	Limbic Entertainment 	Ubisoft 	Role-playing video game, Action role-playing 	Microsoft Windows 	2014
+Might and Magic VI 	New World Computing[5] 	3DO 	Role-playing video game, Action role-playing 	Microsoft Windows 	April 30, 1998
+Might and Magic VII 	New World Computing 	3DO 	Role-playing video game, Action role-playing 	Microsoft Windows 	May 15, 1999[6]
+Minecraft (Full edition) 	Mojang 	- 	Role-playing video game, Action role-playing 	Microsoft Windows 	November 18, 2011[7]
+Napoleon: Total War 	The Creative Assembly, Feral Interactive 	Sega, Typhoon Games, Feral Interactive 	Turn-based strategy 	Microsoft Windows 	February 23, 2010
+Neverwinter Nights 2 	Obsidian Entertainment 	Atari 	Role-playing video game 	Microsoft Windows, OSX 	October 31, 2006
+No More Room in Hell 	Matt Kazan 	Steam 	Horror Game 	Microsoft Windows, OSX, Linux 	October 31, 2013
+Overgrowth 	Wolfire Games 	Wolfire Games 	Action game 	Microsoft Windows, OSX, Linux 	September 17, 2008
+Order of War 	Wargaming.net 	Square Enix 	Strategy 	Microsoft Windows 	September 22, 2009
+Penumbra: Overture 	Frictional Games 	Frictional Games 	Survival horror 	Microsoft Windows, OSX, Linux 	March 30, 2007
+Papers, Please 	Lucas Pope 		Puzzle,Simulation 	Microsoft Windows, OSX, Linux 	August 8, 2013
+Ricochet (2000 video game) 	Valve Corporation 		First-Person shooter 	Microsoft Windows, OSX, Linux 	November 1, 2000
+RollerCoaster Tycoon 3 	Atari 	Atari 	Simulation game 	Microsoft Windows, OSX 	October 26, 2004
+Rome: Total War 	The Creative Assembly 	Sega 	Turn-based strategy 	Microsoft Windows, OSX 	November 22, 2004
+Rome: Total War: Alexander 	The Creative Assembly, Feral Interactive 	Activision, Sega, Feral Interactive 	Turn-based strategy 	Microsoft Windows, OSX 	June 19, 2006
+Rome: Total War: Barbarian Invasion 	The Creative Assembly 	Activision, Sega 	Turn-based strategy 	Microsoft Windows, OSX 	September 27, 2005
+RuneScape 	Jagex Games Studio 	Jagex Games Studio 	Massively Multiplayer Online Role-Playing Game 	JAVA, HTML5 	January 4, 2001
+Shogun: Total War 	The Creative Assembly 	Electronic Arts, Sega, Sold-Out Software 	Turn-based strategy, real-time tactics 	Microsoft Windows 	June 13, 2000
+Sins of a Solar Empire 	Ironclad Games 	Stardock 	Real-time strategy 	Microsoft Windows 	February 4, 2008
+S.T.A.L.K.E.R.: Shadow of Chernobyl 	GSC Game World 	THQ 	First-person shooter 	Microsoft Windows 	March 20, 2007
+Starcraft II: Heart of the Swarm 	Blizzard Entertainment 	Blizzard Entertainment 	Real-time strategy 	Microsoft Windows, OSX 	March 12, 2013
+Starcraft II: Wings of Liberty 	Blizzard Entertainment 	Blizzard Entertainment 	Real-time strategy 	Microsoft Windows, OSX 	July 27, 2010
+Space Station 13 	SS13 Development Team 	SS13 Development Team 	Massively Multiplayer Online Role-Playing Game 	Microsoft Windows 	February 16, 2003
+Star Wars Galaxies 	Sony Online Entertainment 	LucasArts 	First-person shooter 	MMORPG 	June 26, 2003
+Team Fortress Classic 	Valve Corporation 	Valve Corporation 	First-person shooter 	Microsoft Windows, OSX, Linux 	April 7, 1999
+TIE Fighter 	Lucasarts 	Lucasarts 	Flight Simluation 	DOS, Windows 9x OSX 	July 1, 1994
+The Sims: Hot Date 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	November 14, 2001
+The Sims: House Party 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	April 2, 2001
+The Sims: Livin' Large 	Maxis 	Electronic Arts, Aspyr 	Life Simulation Game 	Microsoft Windows, OSX 	August 27, 2000
+The Sims: Makin' Magic 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	October 29, 2003
+The Sims: Superstar 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	May 13, 2003
+The Sims: Unleashed 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	January 7, 2002
+The Sims: Vacation 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	March 28, 2002
+The Sims 2: Apartment Life 	The Sims Division 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	August 25, 2008
+The Sims 2: Bon Voyage 	The Sims Division 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	September 4, 2007
+The Sims 2: FreeTime 	The Sims Division 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	February 22, 2008
+The Sims 2: Nightlife 	The Sims Division 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	September 13, 2005
+The Sims 2: Open for Business 	The Sims Division 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	March 6, 2006
+The Sims 2: Seasons 	The Sims Division 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	February 23, 2007
+The Sims 2: University 	The Sims Division 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	March 11, 2005
+The Sims 3: Generations 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	May 31, 2011
+The Sims 3: Into the Future 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	October 22, 2013
+The Sims 3: Island Paradise 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	June 25, 2013
+The Sims 3: Late Night 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	October 26, 2010
+The Sims 3: Seasons 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	November 13, 2012
+The Sims 3: Showtime 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	March 6, 2012
+The Sims 3: Supernatural 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	September 4, 2012
+The Sims 3: University Life 	Maxis 	Electronic Arts 	Life Simulation Game 	Microsoft Windows, OSX 	March 5, 2013
+The Stanley Parable 	Davey Wreden and William Pugh 	Galactic Cafe 	Interactive fiction 	Microsoft Windows 	July 17, 2013
+Train Simulator(RailWorks) 	Dovetail Games 	Dovetail Games 	Simulator 	Microsoft Windows 	Yearly Release
+Vivisector: Beast Within 	Action Forms 	1C, Brigades 	First-person shooter, Survival Horror 	Microsoft Windows 	January 5, 2006
+Warcraft III: Reign of Chaos 	Blizzard Entertainment 	Blizzard Entertainment 	Real-time strategy 	Microsoft Windows, OSX 	July 3, 2002
+Warhammer 40,000: Dawn of War II 	Relic Entertainment 	THQ 	Real-time tactics 	Microsoft Windows 	February 19, 2009
+War of the Roses (video game) 	Paradox Interactive 	Fatshark 	Action role-playing 	Microsoft Windows 	October 2, 2012
+The Witcher 	CD Projekt RED 	Atari, Inc 	Action role-playing 	Microsoft Windows, OSX 	October 26, 2007
+World of Warcraft 	Blizzard Entertainment 	Blizzard Entertainment 	Online role-playing game 	Microsoft Windows, OSX 	November 23, 2004
+World of Warcraft: The Burning Crusade 	Blizzard Entertainment 	Blizzard Entertainment 	Online role-playing game 	Microsoft Windows, OSX 	January 15, 2007
+World of Warcraft: Cataclysm 	Blizzard Entertainment 	Blizzard Entertainment 	Online role-playing game 	Microsoft Windows, OSX 	December 7, 2010
+World of Warcraft: Mists of Pandaria 	Blizzard Entertainment 	Blizzard Entertainment 	Online role-playing game 	Microsoft Windows, OSX 	July 25, 2012
+World of Warcraft: Warlords of Draenor 	Blizzard Entertainment 	Blizzard Entertainment 	Online role-playing game 	Microsoft Windows, OSX 	2014
+World of Warcraft: Wrath of the Lich King 	Blizzard Entertainment 	Blizzard Entertainment 	Online role-playing game 	Microsoft Windows, OSX 	November 13, 2008
+X-Wing 	Lucasarts 	Lucasarts 	Flight Simulation 	DOS, OSX 	February 1, 1993
+Zoo Tycoon 	Blue Fang Games 	Microsoft Game Studios 	Business simulation game 	Microsoft Windows, OSX 	October 17, 2001
+Zoo Tycoon 2 	Blue Fang Games, MacSoft, Rapan 	Microsoft Game Studios, MacSoft 	Business simulation game 	Microsoft Windows, OSX 	November 2004
+Zoo Tycoon 2: African Adventure 	Blue Fang Games 	Microsoft Game Studios 	Business simulation game 	Microsoft Windows, OSX 	May 2006
+Zoo Tycoon 2: Dino Danger Pack 	Blue Fang Games 	Microsoft Game Studios 	Business simulation game 	Microsoft Windows, OSX 	July 2006
+Zoo Tycoon 2: Endangered Species 	Blue Fang Games 	Microsoft Game Studios 	Business simulation game 	Microsoft Windows, OSX 	October 2005
+Zoo Tycoon 2: Extinct Animals 	Blue Fang Games 	Microsoft Game Studios 	Business simulation game 	Microsoft Windows, OSX 	October 17, 2007
+Zoo Tycoon 2: Marine Mania 	Blue Fang Games 	Microsoft Game Studios 	Business simulation game 	Microsoft Windows, OSX 	October 17, 2006
+Zoo Vet 	Legacy Interactive 	Legacy Interactive 		Microsoft Windows, OSX 	December 2004
+Zork Zero 	Infocom 	Infocom 	interactive fiction 	Amiga, Apple II, DOS, Macintosh 	October 19, 1988
+Zork: Grand Inquisitor 	Activision 	Activision 	Adventure game 	Microsoft Windows, OSX 	October 31, 1997
